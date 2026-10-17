@@ -1,2 +1,5 @@
-# vewy-good-python-scripts
-Collection of vewy good Python scripts by chicken
+# Vewy Good Python Scripts
+
+Made by chicken who is vewy good at cwding!!
+
+All for best fwend!!
